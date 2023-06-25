@@ -5,7 +5,7 @@ pubDate: "Jun 24 2023"
 ---
 
 Com o primeiro dia a ser escrito neste diario é um dia especial, irei
-descrever um dia comum o que será rotineiro.
+descrever um dia comum, o que será rotineiro.
 
 Apenas um dia no qual trabalhei em meu trabalho... sem muitos acontecimentos
 extraordinarios.
