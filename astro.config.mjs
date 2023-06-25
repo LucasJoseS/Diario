@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://lucasjoses.github.io',
+	site: 'https://lucasjoses.github.io/',
   base: 'Diario',
 	integrations: [mdx(), sitemap()],
 });
