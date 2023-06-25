@@ -10,5 +10,5 @@ cerca de 5 delas.
 
 A que começou com este "vício" foi a Pilot BP-1 RT F, uma caneta
 esferográfica excelente com a ponta fina, recomendo ela caso queira testar.
-Comprei também comprei uma caneta tinteiro com a tinta Pilot Black, estou
+Comprei também uma caneta tinteiro com a tinta Pilot Black, estou
 entrando em um buraco que poderá ser dificil de sair no futuro.
