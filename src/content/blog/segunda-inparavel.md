@@ -10,7 +10,7 @@ estou em casa.
 
 Acredito que um dos motivos para qual ter começado a fazer este
 diario de forma publica sejá o de não possuir um pisicologo, porem
-ter a vontade de falar o que penso para alguém porem não ter quem 
+ter a vontade de falar o que penso para alguém mesmo que não tenha quem 
 me escute sem julgar. Desta forma claramente vou continuar
 sendo julgado, porem não saberei quem estará o fazendo.
 
